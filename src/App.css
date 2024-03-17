@@ -45,6 +45,7 @@ body {
   margin: 10px;
   padding: 5px;
   background-color: #faf3e6;
+  color: #655D53;
   border-radius: 5px;
 }
 
@@ -83,15 +84,4 @@ hr {
   height: 0.5px;
   background-color: #8e9093;
   border: 0;
-}
-
-.title {
-  width: 5%;
-  justify-content: flex-start;
-  display: flex;
-  flex-wrap: ;
-}
-
-.inner-title {
-  width: 90%;
 }
